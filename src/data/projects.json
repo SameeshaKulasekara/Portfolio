@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Online Book Store System - DSK",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made for an online book store system.",
+    "skills": ["HTML", "CSS", "PHP","MySQL"],
+    "source": "https://github.com/SameeshaKulasekara/Online_Book_Store_System"
+  },
+  {
+    "title": "Online E-channeling",
+    "imageSrc": "projects/project.png",
+    "description": "This is a online  E-channeling  web application system for customers.",
+    "skills": ["Java", "JSP/servlet", "MySQL"],
+    "source": "https://github.com/SameeshaKulasekara/Online-E-channeling-System"
+  },
+  {
+    "title": "New Look Textile System",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project for e-commerce web application focused on New Look Textile items.",
+    "skills": ["React", "Express", "Node","HTML5","CSS","JS","Bootstrap"],
+    "source": "https://github.com/SameeshaKulasekara/New-Look-Textile-System"
+  },
+  {
+    "title": "SIG E-Commerce System",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project for an e-commerce web application focused on SIG items.",
+    "skills": ["React", "Express", "Node","JS","HTML5","CSS","Bootstrap"],
+    "source": "https://github.com/SameeshaKulasekara/SIG_E-Commerce-System"
+  },
+  {
+    "title": "Culture and Tourism System",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project E-Commerce related web application made  for Culture and Tourism items base on Sri Lankan Culture.",
+    "skills": ["React", "Express", "Node","MongoDB","CSS","JWT","REST","Postman"],
+    "source": "https://github.com/SameeshaKulasekara/SIG_E-Commerce-System"
+  },
+  {
+    "title": "Shopping Cart System",
+    "imageSrc": "projects/project.png",
+    "description": "This web application project made for an online shopping system applicable to the e-commerce system.(Add product, update product, add to cart and remove cart item)",
+    "skills": ["PHP", "HTML5", "CSS","Bootstrap","MySQL"],
+    "source": "https://github.com/SameeshaKulasekara/SIG_E-Commerce-System"
+  }
+]

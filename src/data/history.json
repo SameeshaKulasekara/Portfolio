@@ -1,0 +1,10 @@
+[
+  {
+    "role": "Intern Software Engineer",
+    "organisation": "EWIS Creer Training (pvt) Ltd.",
+    "startDate": "July, 2023",
+    "endDate": "January, 2024",
+    "experiences": ["Worked on PHP projects, MERN projects and Flutter project", "Helped create SRS Documnets", "Draw UML diagrams and design Figma prototypes","UI design"],
+    "imageSrc": "history/ewis.png"
+  }
+]
